@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc8943c141cfc4b29d7659537c53a5f255dae1ba5",
+  "SCAN_LINK": "https://polygonscan.com/token/0xc8943c141cfc4b29d7659537c53a5f255dae1ba5",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Testof",
+  "SYMBOL": "Testof ",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000,
+  "DISPLAY_COST": 0.00001,
+  "GAS_LIMIT": 21000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/seefood",
+  "SHOW_BACKGROUND": true
+}
