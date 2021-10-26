@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xc8943c141cfc4b29d7659537c53a5f255dae1ba5",
-  "SCAN_LINK": "https://polygonscan.com/token/0xc8943c141cfc4b29d7659537c53a5f255dae1ba5",
+  "CONTRACT_ADDRESS": "0x3d7786f67e77c63e50139fca5302f2ab49216736",
+  "SCAN_LINK": "https://polygonscan.com/token/0x3d7786f67e77c63e50139fca5302f2ab49216736",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "MATIC",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 207,
   "GAS_LIMIT": 21000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/seefood",
+  "MARKETPLACE_LINK": "https://opensea.io/assets/hey-pal-league",
   "SHOW_BACKGROUND": true
 }
